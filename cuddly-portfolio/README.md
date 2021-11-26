@@ -10,3 +10,4 @@ entrperise juste parler de qqphoto
 conclusion :"Merci de votre attention"+
 faire une intro en me présentant : je suis un élède de bts sio ... etc
 dire que il y a plusieurs liens 
+ajouter mes formations : Epitech + piscine
