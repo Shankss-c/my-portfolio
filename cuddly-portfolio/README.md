@@ -11,3 +11,6 @@ conclusion :"Merci de votre attention"+
 faire une intro en me présentant : je suis un élède de bts sio ... etc
 dire que il y a plusieurs liens 
 ajouter mes formations : Epitech + piscine
+supprimer la partie entreprise a remplacer par mes projets 
+partie projet et veille se transforme en veille 
+
